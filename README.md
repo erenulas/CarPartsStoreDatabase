@@ -1,7 +1,7 @@
 # Car Parts Store Database
 It's the implementation of a database for a car parts store. 
 This car parts store is like an intermediary between actual suppliers, and the customers.
-You can read wiki to learn more.
+You can read [wiki](https://github.com/erenulas/CarPartsStoreDatabase/wiki) to learn more.
 
 ## Information Regarding to Files
 * There are four stored procedures, four views, and a trigger(in Tables.sql).
