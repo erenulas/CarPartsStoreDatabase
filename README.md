@@ -10,6 +10,6 @@ You can read [wiki](https://github.com/erenulas/CarPartsStoreDatabase/wiki) to l
 
 ## How to Use It?
 * Clone the repo.
-* Create tables, and insert records by executing the related queries.
+* Create tables, and insert records by executing the related queries or import the .bak file.
 * It's all set for you to create your own stored procedures or views.
 
